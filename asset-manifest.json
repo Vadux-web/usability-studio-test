@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/usability-studio-test/static/css/main.073c9b0a.css",
+    "main.js": "/usability-studio-test/static/js/main.1a2978c2.js",
+    "static/js/787.d8d4a0c4.chunk.js": "/usability-studio-test/static/js/787.d8d4a0c4.chunk.js",
+    "index.html": "/usability-studio-test/index.html",
+    "main.073c9b0a.css.map": "/usability-studio-test/static/css/main.073c9b0a.css.map",
+    "main.1a2978c2.js.map": "/usability-studio-test/static/js/main.1a2978c2.js.map",
+    "787.d8d4a0c4.chunk.js.map": "/usability-studio-test/static/js/787.d8d4a0c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.1a2978c2.js"
+  ]
+}
